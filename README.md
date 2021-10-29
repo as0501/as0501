@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Anjali!<3
+### 🍓 she/her
+### 🍵 studying CS & PoliSci @ Barnard College, Columbia University '25
+### 💌 reach me @ as6467@barnard.edu
 
 <!--
 **anjalismith/anjalismith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
