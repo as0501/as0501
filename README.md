@@ -1,7 +1,7 @@
 ## Hi, I'm Anjali!<3
 🍓 she/her
 
-🍵 studying CS & PoliSci @ Barnard College, Columbia University
+🍵 studying CS & Statistics @ Barnard College, Columbia University
 
 💌 reach me @ as6467@barnard.edu
 
